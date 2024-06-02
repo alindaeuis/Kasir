@@ -1,0 +1,105 @@
+
+body {
+background-color: #d8d8d8;
+
+font-size: 20px;
+}
+
+.php-code table a {
+  /* background-color: #e41616;
+  text-decoration: #fff;
+  padding: 8px;
+  border-radius: 5px; */
+  color: #fff;
+}
+
+/* .php-code-bayar p {
+  text-align: center;
+} */
+
+.container-bayar {
+  font-family: "Poppins", sans-serif;
+  background-color: #fffdfd;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  box-shadow: 0 0 8px rgba(0,0,0, 0.7);
+  margin: 10% auto;
+} 
+
+.container-bayar h1 {
+  font-size: 30px;
+}
+
+i {
+  font-size: 18px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.container-struk {
+  font-family:'Courier New', Courier, monospace;
+  background-color: #fffbfb;
+  box-shadow: 0px 0px 10px  rgba(0,0,0,0.7);
+  max-width: 350px;
+  padding: 18px;
+  border-radius: 3px;
+  margin: 8% auto;
+  font-size: 18px;
+
+}
+
+.header-struck h1{
+  text-align: center;
+  font-size: 30px;
+  font-weight:500;
+}
+
+.alamat-struck {
+  text-align: center;
+  line-height: 20px;
+  font-size: 17px;
+  font-weight:500;
+}
+
+/* .header-output p {
+  font-weight: 500;
+  font-size: 15px;
+} */
+
+.tanggal-waktu {
+  text-align: center;
+  font-size: 15px;
+}
+
+.total-barang {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total-harga {
+  display: flex;
+  justify-content: space-between;
+}
+
+.uang-tunai {
+  display: flex;
+  justify-content: space-between;
+}
+.uang-kembali {
+  display: flex;
+  justify-content: space-between;
+}
+
+.php-code td span {
+  text-align: center;
+}
+
+/* .footer-struk {
+  text-align: center;
+} */
